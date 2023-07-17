@@ -4,7 +4,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## About me
+## Portfolio
 
 I'm a Full Stack developer, rocking it on both the Front-end and Back-end of professional projects.
 
