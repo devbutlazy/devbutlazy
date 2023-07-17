@@ -4,7 +4,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<details align="left">
+<p align="center">
 ## Portfolio
 
 I'm a Full Stack developer, rocking it on both the Front-end and Back-end of professional projects.
@@ -12,7 +12,7 @@ I'm a Full Stack developer, rocking it on both the Front-end and Back-end of pro
 I've got a passion for cutting-edge tech, diving into the worlds of Machine Learning and Web Development.
 
 ## Let's code the future! 🚀
-</details>
+</p>
 
 <details align="left">
   <summary><h2><b>🍂 Knowledge</b></h2></summary>
