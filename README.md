@@ -5,7 +5,6 @@
 </p>
 
 
-## Portfolio
 
 I'm a Full Stack developer, rocking it on both the Front-end and Back-end of professional projects.
 
