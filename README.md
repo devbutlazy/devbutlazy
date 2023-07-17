@@ -6,13 +6,11 @@
 
 ## About me
 
-I'm a backend developer, working at proffesional projects.  
+I'm a Front-end & Back-end developer, working at professional projects.  
 
-I'm interested in Python Machine Learning and C++. 
+I'm interested in Machine learning and Web development.
 
-## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devbutlazy&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/BaggerFast/ItManuals)
-
+## 📌 My projects are secure and very stylish
 
 <details align="left">
   <summary><h2><b>📚 Knowlage</b></h2></summary>
@@ -34,7 +32,5 @@ I'm interested in Python Machine Learning and C++.
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbutlazy&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=devbutlazy&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-    <br>
-   <img src="https://metrics.lecoq.io/devbutlazy" />
   </p>
 </details>
