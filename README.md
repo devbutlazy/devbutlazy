@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm LazyDev </h1>
+<h1 align="center">👋 Hey there! LazyDev at your service! </h1>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
