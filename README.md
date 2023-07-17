@@ -10,10 +10,10 @@ I'm a Front-end & Back-end developer, working at professional projects.
 
 I'm interested in Machine learning and Web development.
 
-## 📌 My projects are secure and very stylish
+## 📌 All of my projects are secure and very stylish
 
 <details align="left">
-  <summary><h2><b>📚 Knowlage</b></h2></summary>
+  <summary><h2><b>🍂 Knowlage</b></h2></summary>
   <p>
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=cpp,py,html,css,sqlite&perline=7" />
@@ -27,7 +27,7 @@ I'm interested in Machine learning and Web development.
 
 
 <details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <summary><h2><b>🍃 GitHub stats</b></h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbutlazy&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
