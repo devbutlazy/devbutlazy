@@ -4,6 +4,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+<details align="left">
 ## Portfolio
 
 I'm a Full Stack developer, rocking it on both the Front-end and Back-end of professional projects.
@@ -11,9 +12,10 @@ I'm a Full Stack developer, rocking it on both the Front-end and Back-end of pro
 I've got a passion for cutting-edge tech, diving into the worlds of Machine Learning and Web Development.
 
 ## Let's code the future! 🚀
+</details>
 
 <details align="left">
-  <summary><h2><b>🍂 Knowlage</b></h2></summary>
+  <summary><h2><b>🍂 Knowledge</b></h2></summary>
   <p>
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=cpp,py,html,css,sqlite&perline=7" />
@@ -27,7 +29,7 @@ I've got a passion for cutting-edge tech, diving into the worlds of Machine Lear
 
 
 <details align="left">
-  <summary><h2><b>🍃 GitHub stats</b></h2></summary>
+  <summary><h2><b>🍃 GitHub Stats</b></h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbutlazy&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
