@@ -15,12 +15,12 @@ I'm interested in Python Machine Learning and C++.
 
 
 <details align="left">
-  <summary><h2><b>📚 Languages</b></h2></summary>
+  <summary><h2><b>📚 Knowlage</b></h2></summary>
   <p>
-    <h3>Langs</h3>
+    <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=cpp,py,html,css,sqlite,nosql&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,django,git,bootstrap&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
     <br>
