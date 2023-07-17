@@ -20,9 +20,9 @@ I'm interested in Python Machine Learning and C++.
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=cpp,py,html,css,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,django,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,django,bootstrap,git,gitlab&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,pycharm&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,ps&perline=7" />
     <br>
   </p>
 </details>
