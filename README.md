@@ -6,11 +6,11 @@
 
 ## About me
 
-I'm a Front-end & Back-end developer, working at professional projects.  
+I'm a Full Stack developer, rocking it on both the Front-end and Back-end of professional projects.
 
-I'm interested in Machine learning and Web development.
+I've got a passion for cutting-edge tech, diving into the worlds of Machine Learning and Web Development.
 
-## 📌 Each of my projects exudes both a sense of security and an undeniable touch of style.
+## Let's code the future! 🚀
 
 <details align="left">
   <summary><h2><b>🍂 Knowlage</b></h2></summary>
