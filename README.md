@@ -10,7 +10,7 @@ I'm a Front-end & Back-end developer, working at professional projects.
 
 I'm interested in Machine learning and Web development.
 
-## 📌 All of my projects are secure and very stylish
+## 📌 Each of my projects exudes both a sense of security and an undeniable touch of style.
 
 <details align="left">
   <summary><h2><b>🍂 Knowlage</b></h2></summary>
