@@ -18,11 +18,11 @@ I'm interested in Python Machine Learning and C++.
   <summary><h2><b>📚 Knowlage</b></h2></summary>
   <p>
     <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,sqlite,nosql&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,windows,django,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,django,git,bootstrap&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,pycharm&perline=7" />
     <br>
   </p>
 </details>
