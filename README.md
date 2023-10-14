@@ -1,32 +1,3 @@
-<h1 align="center">👋 Hey there! LazyDev at your service! </h1>
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-## Portfolio
-
-I'm a Full Stack developer, rocking it on both the Front-end and Back-end of professional projects.
-
-I've got a passion for cutting-edge tech, diving into the worlds of Machine Learning and Web Development.
-
-## Let's code the future! 🚀
-
-
-<details align="left">
-  <summary><h2><b>🍂 Knowledge</b></h2></summary>
-  <p>
-    <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,sqlite&perline=7" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,django,bootstrap,git,gitlab&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,ps&perline=7" />
-    <br>
-  </p>
-</details>
-
-
 [![Header](https://i.postimg.cc/s259SrTx/lazydevbanner.png)](https://devbutlazy.vn.ua/)
 
 ## Cyber Security/Software Development
