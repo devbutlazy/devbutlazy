@@ -12,13 +12,11 @@
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
 </a>
 
-### Latest YouTube Videos:
+### Biography:
 <!-- YOUTUBE:START -->
-- [Как передать данные именованному маршруту во Flutter](https://www.youtube.com/watch?v=gL8DQKQx6Yo)
-- [Навигация во Flutter с использованием именованных маршрутов](https://www.youtube.com/watch?v=4GMW0yphxN4)
-- [Как передавать данные между экранами во Flutter](https://www.youtube.com/watch?v=7CluiX90w7Q)
-- [Навигация между экранами во Flutter. Navigator push/pop](https://www.youtube.com/watch?v=mY8Ij5nM_Kk)
-- [Как переключить фокус с одного текстового поля на другое во Flutter](https://www.youtube.com/watch?v=yTj5zD9g_RY)
+- I'm currently immersed in the realms of C++, software development, and Cyber Security. 
+- As a versatile professional, I excel in Full Stack development, handling both Front-end and Back-end aspects of projects.
+- My enthusiasm lies in exploring the latest technologies, delving deep into the domains of Software and C++ Development.
 <!-- YOUTUBE:END -->
 
 ### Languages:
