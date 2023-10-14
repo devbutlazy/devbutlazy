@@ -23,3 +23,18 @@
 [![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,sqlite,powershell)](https://skillicons.dev)
 ### Tools:
 [![Tools](https://skillicons.dev/icons?i=git,discord,vscode,visualstudio)](https://skillicons.dev)
+
+### GitHub Statistics: 
+  
+ <table> 
+   <tr> 
+     <td> 
+       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=devbutlazy&theme=dark&background=000000" alt="webDev's Github stats" /> 
+     </td> 
+     <td> 
+       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devbutlazy&layout=compact&theme=vision-friendly-dark" /> 
+     </td> 
+   </tr> 
+ </table> 
+  
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devbutlazy)
