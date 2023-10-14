@@ -2,12 +2,15 @@
 
 ## Cyber Security/Software Development
 
-<a>
-  <img src="https://i.postimg.cc/15Pt5ZqM/cybersecurity.png" alt="Cyber Security" width="180"/>
-</a>
-<a>
-  <img src="https://i.postimg.cc/s22GfCbb/software-dev.png" alt="Software Development" width="180"/>
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <a>
+    <img src="https://i.postimg.cc/15Pt5ZqM/cybersecurity.png" alt="Cyber Security" width="180"/>
+  </a>
+  <a>
+    <img src="https://i.postimg.cc/s22GfCbb/software-dev.png" alt="Software Development" width="180"/>
+  </a>
+</div>
+
 
 ### Biography:
 <!-- YOUTUBE:START -->
