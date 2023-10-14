@@ -26,7 +26,7 @@
 
 
 <details align="left">
-  <summary><h2><b>🍃 GitHub Stats</b></h2></summary>
+  <summary><h2><b>GitHub Statistics</b></h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbutlazy&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
