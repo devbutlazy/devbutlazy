@@ -23,13 +23,3 @@
 [![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,sqlite,powershell)](https://skillicons.dev)
 ### Tools:
 [![Tools](https://skillicons.dev/icons?i=git,discord,vscode,visualstudio)](https://skillicons.dev)
-
-
-<details align="left">
-  <summary><h2><b>GitHub Statistics</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbutlazy&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=devbutlazy&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-  </p>
-</details>
