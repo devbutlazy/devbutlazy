@@ -20,10 +20,9 @@
 <!-- YOUTUBE:END -->
 
 ### Languages:
-[![Skills](https://skillicons.dev/icons?i=c,python,html,css,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,sqlite,powershell)](https://skillicons.dev)
 ### Tools:
-![Photoshop](https://img.shields.io/badge/-CSS-090909?style=for-the-badge)
-![Photoshop](https://img.shields.io/badge/-CSS-090909?style=for-the-badge)
+[![Tools](https://skillicons.dev/icons?i=git,discord,vscode,visualstudio)](https://skillicons.dev)
 
 
 <details align="left">
