@@ -8,9 +8,6 @@
 <a>
   <img src="https://i.postimg.cc/s22GfCbb/software-dev.png" alt="Software Development" width="180"/>
 </a>
-<a href="https://apps.apple.com/developer/aliaksei-shpauda/id1648889980" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
-</a>
 
 ### Biography:
 <!-- YOUTUBE:START -->
