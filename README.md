@@ -10,7 +10,7 @@
 ### Languages:
 [![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,sqlite,powershell)](https://skillicons.dev)
 ### Tools:
-[![Tools](https://skillicons.dev/icons?i=git,discord,vscode,visualstudio)](https://skillicons.dev)
+[![Tools && Socials](https://skillicons.dev/icons?i=git,cmake,discord,vscode,visualstudio)](https://skillicons.dev)
 
 ### GitHub Statistics: 
   
