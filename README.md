@@ -8,7 +8,7 @@
 <!-- YOUTUBE:END -->
 
 ### Languages:
-[![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,sqlite,powershell)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,python,html,css)](https://skillicons.dev)
 ### Tools:
 [![Tools && Socials](https://skillicons.dev/icons?i=git,cmake,discord,vscode,visualstudio)](https://skillicons.dev)
 
