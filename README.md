@@ -1,17 +1,5 @@
 [![Header](https://i.postimg.cc/s259SrTx/lazydevbanner.png)](https://devbutlazy.vn.ua/)
 
-## Cyber Security/Software Development
-
-<div style="display: flex; justify-content: space-between;">
-  <a>
-    <img src="https://i.postimg.cc/15Pt5ZqM/cybersecurity.png" alt="Cyber Security" width="180"/>
-  </a>
-  <a>
-    <img src="https://i.postimg.cc/s22GfCbb/software-dev.png" alt="Software Development" width="180"/>
-  </a>
-</div>
-
-
 ### Short Biography:
 <!-- YOUTUBE:START -->
 - I'm currently immersed in the realms of C++, software development, and Cyber Security. 
