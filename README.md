@@ -2,9 +2,9 @@
 
 ### Short Biography:
 <!-- YOUTUBE:START -->
-- I'm currently immersed in the realms of C++, Software Development, and Cyber Security. 
+- I'm currently immersed in the realms of Python, DevOps, and Cyber Security. 
 - As a versatile professional, I excel in Full Stack development, handling both Front-end and Back-end aspects of projects.
-- My enthusiasm lies in exploring the latest technologies, delving deep into the domains of Software and C++ Development.
+- My enthusiasm lies in exploring the latest technologies, delving deep into the domains of Software and Python Development.
 <!-- YOUTUBE:END -->
 
 ### Languages:
