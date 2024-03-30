@@ -1,10 +1,6 @@
 [![Header](https://i.postimg.cc/s259SrTx/lazydevbanner.png)](https://devbutlazy.vn.ua/)
 
-### Short Biography:
-<!-- YOUTUBE:START -->
-- I'm currently immersed in the realms of Python, DevOps, and Cyber Security. 
-- As a versatile professional, I excel in Full Stack development, handling both Front-end and Back-end aspects of projects.
-- My enthusiasm lies in exploring the latest technologies, delving deep into the domains of Software and Python Development.
+### Backend Developer from Ukraine. 4 years of coding experience.
 <!-- YOUTUBE:END -->
 
 ### Languages:
