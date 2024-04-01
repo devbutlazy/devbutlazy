@@ -9,14 +9,4 @@
 [![Tools && Socials](https://skillicons.dev/icons?i=git,cmake,discord,vscode,visualstudio)](https://skillicons.dev)
 
 ### GitHub Statistics: 
-  
- <table> 
-   <tr> 
-     <td> 
-       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=devbutlazy&theme=dark&background=000000"> 
-     </td> 
-     <td> 
-       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devbutlazy&layout=compact&theme=vision-friendly-dark" /> 
-     </td> 
-   </tr> 
- </table> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=octo8eight&show_icons=true&theme=dark)
