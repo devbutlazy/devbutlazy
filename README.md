@@ -1,8 +1,8 @@
 [![Header](https://i.postimg.cc/s259SrTx/lazydevbanner.png)](https://devbutlazy.vn.ua/)
 
 # 😪 LazyDev
-### I am a Backend Developer from Ukraine, with 4 years of coding experience.
-<!-- YOUTUBE:END -->
+I am a Backend Developer from Ukraine, with 4 years of coding experience.
+
 
 ### 🔧 Languages
 [![Skills](https://skillicons.dev/icons?i=python,cpp,html,css)](https://skillicons.dev)
