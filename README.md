@@ -2,7 +2,7 @@
 
 # 😪 LazyDev
 
-`DevOps` `DevSecOps` `Python Developer`
+`DevOps` `DevSecOps` `Python Developer`    
 I am a Backend Developer from Ukraine, with 4 years of coding experience.
 
 
