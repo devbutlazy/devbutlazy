@@ -13,4 +13,4 @@ I am a Backend Developer from Ukraine, with 4 years of coding experience.
 [![Tools && Socials](https://skillicons.dev/icons?i=git,cmake,discord,vscode,visualstudio)](https://skillicons.dev)
 
 ### 📊 Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=octo8eight&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbutlazyt&show_icons=true&theme=dark)
