@@ -1,6 +1,8 @@
 [![Header](https://i.postimg.cc/s259SrTx/lazydevbanner.png)](https://devbutlazy.vn.ua/)
 
 # 😪 LazyDev
+
+`DevOps` `DevSecOps` `Python Developer`
 I am a Backend Developer from Ukraine, with 4 years of coding experience.
 
 
