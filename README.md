@@ -8,8 +8,8 @@
 
 I am a Self-Trained Backend Developer from Ukraine, with 4 years of coding experience.  
 <br>
-[![Skills](https://skillicons.dev/icons?i=python,cpp,html,css)](https://skillicons.dev)
-[![Tools && Socials](https://skillicons.dev/icons?i=vscode,visualstudio,git,discord,cmake)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Tools && Socials](https://skillicons.dev/icons?i=vscode,visualstudio,git,discord)](https://skillicons.dev)
 #
 
 
