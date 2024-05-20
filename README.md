@@ -11,6 +11,7 @@ I am a Self-Trained Backend Developer from Ukraine, with 4 years of coding exper
 [![Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![Tools && Socials](https://skillicons.dev/icons?i=vscode,git,discord)](https://skillicons.dev)
 
+<br />
 <p align="left"> 
    <a href="https://github.com/devbutlazy?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/devbutlazy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
