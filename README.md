@@ -2,8 +2,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=F78A13&center=true&random=false&width=1000&height=100&lines=LazyDev" alt="Typing SVG" /></a>
 
-# 😪 LazyDev
-
 `DevOps` `DevSecOps` `Python Developer`    
 
 I am a Self-Trained Backend Developer from Ukraine, with 4 years of coding experience.
