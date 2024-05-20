@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=F78A13&center=true&random=false&width=1000&height=100&lines=LazyDev" alt="Typing SVG" /></a>
 
-# 
+# Short Biography
 
 `DevOps` `DevSecOps` `Python Developer`    
 
@@ -18,7 +18,7 @@ I am a Self-Trained Backend Developer from Ukraine, with 4 years of coding exper
 </p>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+#
 
 <p align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devbutlazy&theme=tokyonight">
