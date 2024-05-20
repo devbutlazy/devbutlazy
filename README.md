@@ -7,7 +7,8 @@
 `DevOps` `DevSecOps` `Python Developer`    
 
 I am a Self-Trained Backend Developer from Ukraine, with 4 years of coding experience. 
-
+  
+  
 <p>
    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="64" height="64">
    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="64" height="64">
