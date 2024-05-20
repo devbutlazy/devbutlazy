@@ -10,8 +10,6 @@ I am a Self-Trained Backend Developer from Ukraine, with 4 years of coding exper
 <br>
 [![Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![Tools && Socials](https://skillicons.dev/icons?i=vscode,git,discord)](https://skillicons.dev)
-#
-
 
 #
 
