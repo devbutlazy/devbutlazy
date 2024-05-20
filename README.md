@@ -4,7 +4,7 @@
 
 `DevOps` `DevSecOps` `Python Developer`    
 
-I am a Backend Developer from Ukraine, with 4 years of coding experience.
+I am a Self-Trained Backend Developer from Ukraine, with 4 years of coding experience.
 
 
 ### 🔧 Languages
