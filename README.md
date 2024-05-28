@@ -8,7 +8,7 @@
 
 I am a Self-Trained Backend Developer from Ukraine, with 4 years of coding experience.  
 <br>
-[![Skills](https://skillicons.dev/icons?i=python,go,vscode,windows,arch,docker,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,vscode,windows,arch,docker,git)](https://skillicons.dev)
 
 <br />
 <p align="left"> 
