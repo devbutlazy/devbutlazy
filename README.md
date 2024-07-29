@@ -13,7 +13,7 @@ I am a Self-Trained Backend Developer from Ukraine, with 4 years of coding exper
 <br />
 <p align="left"> 
    <a href="https://github.com/devbutlazy?tab=followers">
-      <img alt="followers" title=".." src=""/></a>
+      <img alt="followers" title=".." src="https://custom-icon-badges.demolab.com/github/followers/devbutlazy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/devbutlazy?tab=repositories&sort=stargazers">
       <img alt="total stars" title=".." src="https://custom-icon-badges.demolab.com/github/stars/devbutlazy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
