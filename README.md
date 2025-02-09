@@ -14,7 +14,8 @@ I am a DevOps Engineer from Ukraine, with 4 years of coding experience.
 
 <details><summary><b>Currently Learning</b></summary>
 
-[![Programming languages](https://skillicons.dev/icons?i=go,cs&perline=2)](https://github.com/milksense)
+  
+[![Programming languages](https://skillicons.dev/icons?i=go,cs,html,css&perline=4)](https://github.com/milksense)
 </details>
 
 
