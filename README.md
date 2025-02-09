@@ -15,12 +15,12 @@ I am a DevOps Engineer from Ukraine, with 4 years of coding experience.
 <details><summary><b>also learning</b></summary>
 
   
-[![Programming languages](https://skillicons.dev/icons?i=go,cs,html,css&perline=4)](https://github.com/milksense)
+[![Programming languages](https://skillicons.dev/icons?i=go,cs,html,css&perline=4)](https://github.com/devbutlazy)
 </details>
 
 
 ### System software
-[![System software](https://skillicons.dev/icons?i=windows,linux,nodejs,git,docker,postgres,mongodb,mysql)](https://github.com/milksense)
+[![System software](https://skillicons.dev/icons?i=windows,linux,nodejs,git,docker,postgres,mongodb,mysql)](https://github.com/devbutlazy)
 
 #
 
