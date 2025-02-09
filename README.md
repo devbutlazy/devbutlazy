@@ -4,9 +4,9 @@
 
 # Short Biography
 
-`DevOps` `DevSecOps` `Python Developer`    
+`DevOps` `Backend`
 
-I am a Self-Trained Backend Developer from Ukraine, with 4 years of coding experience.  
+I am a DevOps Engineer from Ukraine, with 4 years of coding experience.  
 <br>
 [![Skills](https://skillicons.dev/icons?i=python,js,sqlite,mongodb,vscode,windows,linux,docker,git)](https://skillicons.dev)
 
