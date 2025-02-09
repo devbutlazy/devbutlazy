@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=F78A13&center=true&random=false&width=1000&height=100&lines=LazyDev" alt="Typing SVG" /></a>
 
-# 🌌 Some Bio
+# 🌌 Biography
 
 `DevOps` `Backend`
 
