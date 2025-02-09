@@ -12,7 +12,7 @@ I am a DevOps Engineer from Ukraine, with 4 years of coding experience.
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://uk.wikipedia.org/wiki/JavaScript)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://uk.wikipedia.org/wiki/C%2B%2B)
 
-<details><summary><b>Currently Learning</b></summary>
+<details><summary><b>also learning</b></summary>
 
   
 [![Programming languages](https://skillicons.dev/icons?i=go,cs,html,css&perline=4)](https://github.com/milksense)
