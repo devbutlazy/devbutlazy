@@ -4,7 +4,7 @@
 
 # 🌌 Biography
 
-`DevOps` `Backend` `UTC+2`
+`DevOps` `Backend` `UTC+3`
 
 I am a DevOps Engineer from Ukraine, with 4 years of coding experience.  
 ### Programming languages
