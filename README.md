@@ -6,16 +6,21 @@
 
 `DevOps` `Backend` `UTC+3`
 
-I am a DevOps Engineer from Ukraine, with 5 years of coding experience.  
-### Programming languages
+DevOps and Backend enthusiast from Ukraine with more than five years of experience building practical software solutions. My main focus is on creating tools and backend services that actually solve problems - whether it’s automating tasks, working with APIs, or building utilities for Linux and Windows systems.
+
+I mostly work with Python, JS and Go. Lately, I’ve been exploring C++ and C# to dig deeper into efficient, low-level programming.
+
+I enjoy making things that are useful, and I treat debugging as a chance to refine my code - not just fix it. Always learning, always tinkering, and always open to feedback and collaboration.
+
+### Programming stack
 [![Programming languages](https://skillicons.dev/icons?i=python,js,go,cpp,cs)](https://github.com/devbutlazy)
 
-### System software
-[![System software](https://skillicons.dev/icons?i=windows,linux,nodejs,git,docker,postgres,mongodb,mysql)](https://github.com/devbutlazy)
+### Tools & Softs
+[![System software](https://skillicons.dev/icons?i=windows,linux,fastapi,nodejs,cmake,git,docker,postgres,mongodb,mysql&perline=5)](https://github.com/devbutlazy)
 
 #
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=devbutlazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=devbutlazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"> <img src="https://streak-stats.demolab.com/?user=devbutlazy&theme=tokyonight&hide_border=true">
 </p>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=dracula&border_radius=4.5) -->
