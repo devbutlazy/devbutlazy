@@ -8,16 +8,7 @@
 
 I am a DevOps Engineer from Ukraine, with 5 years of coding experience.  
 ### Programming languages
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://uk.wikipedia.org/wiki/JavaScript)
-[![Go](https://skillicons.dev/icons?i=go)](https://uk.wikipedia.org/wiki/C%2B%2B)
-
-<details><summary><b>also basic knowledge</b></summary>
-
-  
-[![Programming languages](https://skillicons.dev/icons?i=cpp,cs,html,css&perline=4)](https://github.com/devbutlazy)
-</details>
-
+[![Programming languages](https://skillicons.dev/icons?i=python,js,go,cpp,cs)](https://github.com/devbutlazy)
 
 ### System software
 [![System software](https://skillicons.dev/icons?i=windows,linux,nodejs,git,docker,postgres,mongodb,mysql)](https://github.com/devbutlazy)
