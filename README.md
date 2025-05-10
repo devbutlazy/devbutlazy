@@ -16,6 +16,6 @@ I am a DevOps Engineer from Ukraine, with 5 years of coding experience.
 #
 
 <p align="center">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devbutlazy&theme=tokyonight">
+   <img src="https://github-readme-stats.vercel.app/api?username=devbutlazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
 </p>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=dracula&border_radius=4.5) -->
