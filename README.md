@@ -21,6 +21,7 @@ I enjoy making things that are useful, and I treat debugging as a chance to refi
 #
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=devbutlazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"> <img src="https://streak-stats.demolab.com/?user=devbutlazy&theme=tokyonight&hide_border=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=devbutlazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
+   <img src="https://streak-stats.demolab.com/?user=devbutlazy&theme=tokyonight&hide_border=true">
 </p>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=dracula&border_radius=4.5) -->
