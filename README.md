@@ -13,7 +13,7 @@ I mostly work with Python, JS and Go. Lately, I’ve been exploring C++ and C# t
 I enjoy making things that are useful, and I treat debugging as a chance to refine my code - not just fix it. Always learning, always tinkering, and always open to feedback and collaboration.
 
 ### Programming stack
-[![Programming languages](https://skillicons.dev/icons?i=python,js,go,cpp,cs)](https://github.com/devbutlazy)
+[![Programming languages](https://skillicons.dev/icons?i=python,js,go,c,cpp)](https://github.com/devbutlazy)
 
 ### Tools & Softs
 [![System software](https://skillicons.dev/icons?i=windows,linux,fastapi,nodejs,cmake,git,docker,postgres,mongodb,mysql&perline=5)](https://github.com/devbutlazy)
