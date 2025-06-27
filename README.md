@@ -24,3 +24,7 @@ I enjoy making things that are useful, and I treat debugging as a chance to refi
   <img src="https://github-readme-stats.vercel.app/api?username=devbutlazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="420">
   <img src="https://streak-stats.demolab.com/?user=devbutlazy&theme=tokyonight&hide_border=true" width="420">
 </p>
+
+#
+
+![](https://komarev.com/ghpvc/?username=devbutlazy&color=green)
