@@ -27,4 +27,4 @@ I enjoy making things that are useful, and I treat debugging as a chance to refi
 
 #
 
-![](https://komarev.com/ghpvc/?username=devbutlazy&color=green)
+![](https://komarev.com/ghpvc/?username=devbutlazy&color=blue)
