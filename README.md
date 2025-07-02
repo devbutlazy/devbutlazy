@@ -8,7 +8,7 @@
 
 DevOps and Backend enthusiast from Ukraine with more than five years of experience building practical software solutions. My main focus is on creating tools and backend services that actually solve problems - whether it’s automating tasks, working with APIs, or building utilities for Linux and Windows systems.
 
-I mostly work with Python, JS and Go. Lately, I’ve been exploring C++ and C# to dig deeper into efficient, low-level programming.
+I mostly work with Python, JS and Go. Lately, I’ve been exploring C and C++ to dig deeper into efficient, low-level programming.
 
 I enjoy making things that are useful, and I treat debugging as a chance to refine my code - not just fix it. Always learning, always tinkering, and always open to feedback and collaboration.
 
