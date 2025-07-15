@@ -4,7 +4,7 @@
 
 # Biography
 
-`DevOps Engineer` `Backend Developer` `Toolsmith` 
+`DevOps` `Backend` `Toolsmith` 
 
 DevOps Engineer, Backend Developer, and Toolsmith from Ukraine with over five years of hands-on experience building reliable and purpose-driven software. Focused on automation, custom tooling, and backend systems that make workflows smoother and development faster.
 
