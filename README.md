@@ -2,9 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=F78A13&center=true&random=false&width=1000&height=100&lines=LazyDev" alt="Typing SVG" /></a>
 
-# 🌌 Biography
+# Biography
 
-`DevOps` `Backend` `UTC+3`
+`DevOps Enginerr` `Backend Developer` `Toolsmith` 
 
 DevOps Engineer, Backend Developer, and Toolsmith from Ukraine with over five years of hands-on experience building reliable and purpose-driven software. Focused on automation, custom tooling, and backend systems that make workflows smoother and development faster.
 
@@ -16,7 +16,7 @@ All in all, I enjoy making things that are useful, and I treat debugging as a ch
 [![Programming languages](https://skillicons.dev/icons?i=python,js,go,c,cpp)](https://github.com/devbutlazy)
 
 ### Tools & Softs
-[![System software](https://skillicons.dev/icons?i=windows,linux,fastapi,nodejs,cmake,git,docker,postgres,mongodb,mysql&perline=5)](https://github.com/devbutlazy)
+[![System software](https://skillicons.dev/icons?i=linux,windows,fastapi,nodejs,cmake,git,docker,postgres,mongodb,mysql&perline=5)](https://github.com/devbutlazy)
 
 #
 
