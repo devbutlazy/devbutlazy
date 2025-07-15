@@ -6,11 +6,11 @@
 
 `DevOps` `Backend` `UTC+3`
 
-DevOps and Backend enthusiast from Ukraine with more than five years of experience building practical software solutions. My main focus is on creating tools and backend services that actually solve problems - whether it’s automating tasks, working with APIs, or building utilities for Linux and Windows systems.
+DevOps Engineer, Backend Developer, and Toolsmith from Ukraine with over five years of hands-on experience building reliable and purpose-driven software. Focused on automation, custom tooling, and backend systems that make workflows smoother and development faster.
 
-I mostly work with Python, JS and Go. Lately, I’ve been exploring C and C++ to dig deeper into efficient, low-level programming.
+Most of my work is in Python, JavaScript, and Go, but I also have solid experience with C and C++ when performance or low-level control is needed. I am especially interested in creating CLI & TUI tools that are both efficient and user-friendly. I work primarily on Windows and Arch Linux (KDE), and I’m friendly with UNIX system management and networking.
 
-I enjoy making things that are useful, and I treat debugging as a chance to refine my code - not just fix it. Always learning, always tinkering, and always open to feedback and collaboration.
+All in all, I enjoy making things that are useful, and I treat debugging as a chance to refine my code - not just fix it.  Collaboration and feedback are always welcome.
 
 ### Programming stack
 [![Programming languages](https://skillicons.dev/icons?i=python,js,go,c,cpp)](https://github.com/devbutlazy)
@@ -20,9 +20,10 @@ I enjoy making things that are useful, and I treat debugging as a chance to refi
 
 #
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devbutlazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="420">
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=devbutlazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="420" height="300" style="object-fit: cover;">
+  <img src="https://streak-stats.vercel.app/?user=devbutlazy&theme=radical&hide_border=true" width="420" height="300" style="object-fit: cover;">
+</div>
 
 #
 
