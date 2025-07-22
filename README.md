@@ -1,7 +1,3 @@
-<!-- <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1400" height="500"></p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=F78A13&center=true&random=false&width=1000&height=100&lines=LazyDev" alt="Typing SVG" /></a> -->
-
 # Sup <img align="bottom" src="assets/emojis/hello.png" width="28" alt="👋">, I'm LazyDev
 
 
@@ -23,7 +19,9 @@ All in all, I enjoy making things that are useful, and I treat debugging as a ch
 
 #
 
-<div align="center">
+### GitHub Activity
+
+<div>
   <img
     src="https://github-readme-stats.vercel.app/api?username=devbutlazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
     width="420" height="200" style="object-fit: cover; display: inline-block; margin-right: 10px;" />
