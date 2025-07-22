@@ -30,9 +30,9 @@ All in all, I enjoy making things that are useful, and I treat debugging as a ch
     src="https://streak-stats.vercel.app/?user=devbutlazy&theme=tokyonight&hide_border=true"
     width="420" height="200" style="object-fit: cover; display: inline-block;" />
 </div> -->
-
+<!-- 
 <br>
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
-</p>
+</p> -->
