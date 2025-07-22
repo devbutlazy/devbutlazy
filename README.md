@@ -13,19 +13,7 @@ Most of my work is in Python, JavaScript, and Go, but I also have solid experien
 
 All in all, I enjoy making things that are useful, and I treat debugging as a chance to refine my code - not just fix it. Collaboration and feedback are always welcome.
 
-<br>
-
-<picture>
-  <source srcset="assets/underline-white.svg" media="(prefers-color-scheme: dark)">
-  <source srcset="assets/underline-black.svg" media="(prefers-color-scheme: light)">
-  <img src="assets/underline-white.svg" width="500" align="left" alt="—————————————————————————————">
-</picture>
-
-<br><br>
-
-
-
-
+#
 
 ### Languages
 [![Programming languages](https://skillicons.dev/icons?i=python,js,go,c,cpp)](https://github.com/devbutlazy)
@@ -36,6 +24,7 @@ All in all, I enjoy making things that are useful, and I treat debugging as a ch
 #
 
 <img src="https://github-readme-stats.vercel.app/api?username=devbutlazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="420" height="300" style="object-fit: cover;">
+<img src="https://streak-stats.vercel.app/?user=devbutlazy&theme=tokyonight&hide_border=true" width="420" height="300" style="object-fit: cover;">
 
 <br>
 
