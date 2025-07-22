@@ -26,11 +26,11 @@ All in all, I enjoy making things that are useful, and I treat debugging as a ch
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=devbutlazy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
-    width="420" height="200" style="object-fit: cover; display: block; margin-bottom: 10px;" />
+    width="420" height="200" style="object-fit: cover; display: inline-block; margin-right: 10px;" />
 
   <img
     src="https://streak-stats.vercel.app/?user=devbutlazy&theme=tokyonight&hide_border=true"
-    width="420" height="200" style="object-fit: cover; display: block;" />
+    width="420" height="200" style="object-fit: cover; display: inline-block;" />
 </div>
 
 <br>
