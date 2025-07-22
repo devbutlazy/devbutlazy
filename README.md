@@ -17,7 +17,7 @@ All in all, I enjoy making things that are useful, and I treat debugging as a ch
 ### Databases/Tools & Extras
 [![System software](https://skillicons.dev/icons?i=linux,windows,django,fastapi,flask,nodejs,cmake,git,docker,postgres,mongodb,mysql&perline=6)](https://github.com/devbutlazy)
 
-#
+<!-- #
 
 ### GitHub Activity
 
@@ -29,7 +29,7 @@ All in all, I enjoy making things that are useful, and I treat debugging as a ch
   <img
     src="https://streak-stats.vercel.app/?user=devbutlazy&theme=tokyonight&hide_border=true"
     width="420" height="200" style="object-fit: cover; display: inline-block;" />
-</div>
+</div> -->
 
 <br>
 
