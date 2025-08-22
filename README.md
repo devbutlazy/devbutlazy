@@ -3,19 +3,21 @@
 
 `DevOps` `Backend` `Toolsmith` 
 
-DevOps Engineer, Backend Developer, and Toolsmith from Ukraine with over five years of hands-on experience building reliable and purpose-driven software. Focused on automation, custom tooling, and backend systems that make workflows smoother and development faster.
+Experienced engineer from Ukraine with 5+ years of proven expertise in building resilient, scalable, and purpose-driven software solutions. My work primarily focuses on backend systems, process automation, and the design of custom developer tooling that accelerates workflows and improves team productivity.
 
-Most of my work is in Python, JavaScript, and Go, but I also have solid experience with C and C++ when performance or low-level control is needed. I am especially interested in creating CLI & TUI tools that are both efficient and user-friendly. I work primarily on Windows and Linux, and I’m in common with UNIX system management and networking.
+Specialization lies in Python and Go, complemented by a strong background in C/C++ for performance-critical or low-level applications. Professional experience spans Windows and UNIX systems, including system administration, networking, and environment optimization.
 
-All in all, I enjoy making things that are useful, and I treat debugging as a chance to refine my code - not just fix it. Collaboration and feedback are always welcome.
+Particular focus is placed on developing TUI applications, websites, and Telegram bots that combine efficiency with intuitive usability. Debugging and optimization are approached as opportunities to enhance quality, reliability, and long-term maintainability, rather than simply means of resolving issues.
+
+Core values include clean architecture, automation, and maintainability, with a strong preference for collaborative environments where feedback and knowledge sharing drive continuous improvement.
 
 #
 
 ### Languages
-[![Programming languages](https://skillicons.dev/icons?i=python,js,go,c,cpp)](https://github.com/devbutlazy)
+[![Programming languages](https://skillicons.dev/icons?i=python,go,c,cpp)](https://github.com/devbutlazy)
 
 ### Databases/Tools & Extras
-[![System software](https://skillicons.dev/icons?i=linux,windows,django,fastapi,flask,nodejs,cmake,git,docker,postgres,mongodb,mysql&perline=6)](https://github.com/devbutlazy)
+[![System software](https://skillicons.dev/icons?i=linux,windows,cmake,git,docker,regex,django,fastapi,flask,postgres,mongodb,mysql&perline=6)](https://github.com/devbutlazy)
 
 <!-- #
 
