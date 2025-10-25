@@ -3,7 +3,7 @@
 
 `DevOps` `Backend` `Toolsmith` 
 
-**Anything-You-Want Developer** with 6+ years of experience building reliable and purpose-driven software. Specialization lies in Python, Go and C/C+. Core values include clean architecture, automation, and maintainability, with a strong preference for collaborative environments where feedback and knowledge sharing drive continuous improvement.
+**Anything-You-Want Developer** with 6+ years of experience building reliable and purpose-driven software. Mainly work with Python, Go and C/C+. Kinda a fan of clean architecture, automation, and maintainability, with a strong preference for collaborative environments.
 
 Actually, I'm too lazy to come up with something more for my readme. Although, good developers don't need an introduction =)
 
