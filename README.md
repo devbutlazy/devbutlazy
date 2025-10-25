@@ -1,4 +1,4 @@
-# Sup <img align="bottom" src="assets/emojis/hello.png" width="28" alt="👋">, I'm LazyDev
+# LazyDev
 
 ### Languages
 [![Programming languages](https://skillicons.dev/icons?i=python,go,c,cpp)](https://github.com/devbutlazy)
