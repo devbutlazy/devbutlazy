@@ -4,7 +4,9 @@
 
 `DevOps` `Backend` `Toolsmith` 
 
-**Anything-You-Want Developer** with over six years of experience building reliable and purpose-driven software. Most of my work is in Python, Go, and C/C++, but I’ll use whatever fits the problem best. I enjoy creating tools that are efficient, practical, and pleasant to use.
+**Anything-You-Want Developer** with over six years of experience building reliable and purpose-driven software. 
+
+Most of my work is in Python, Go, and C/C++, but I’ll use whatever fits the problem best. I enjoy creating tools that are efficient, practical, and pleasant to use.
 
 Actually, I'm too lazy to come up with something more for my readme. Although, good developers don't need an introduction =)
 #
