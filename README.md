@@ -8,4 +8,4 @@ Too lazy to write a long intro — good code speaks for itself anyway.
 [![Programming languages](https://skillicons.dev/icons?i=python,go,c,cpp)](https://github.com/devbutlazy)
 
 ### Extras
-[![System software](https://skillicons.dev/icons?i=linux,cmake,git,docker,githubactions,rabbitmq,kafka,fastapi,flask,postgres,mysql,mongodb&perline=6)](https://github.com/devbutlazy)
+[![System software](https://skillicons.dev/icons?i=cmake,git,docker,kubernetes,githubactions,rabbitmq,kafka,fastapi,flask,postgres,mysql,mongodb&perline=6)](https://github.com/devbutlazy)
