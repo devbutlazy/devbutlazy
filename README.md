@@ -8,3 +8,5 @@ Too lazy to write a long intro — good code speaks for itself anyway.
 ### Stack
 [![Programming languages](https://skillicons.dev/icons?i=python,go,c,cpp)](https://github.com/devbutlazy)
 
+### Extras
+[![System software](https://skillicons.dev/icons?i=cmake,git,docker,kubernetes,githubactions,fastapi,flask,postgres,mysql,mongodb&perline=5)](https://github.com/devbutlazy)
